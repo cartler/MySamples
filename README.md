@@ -25,3 +25,7 @@ polling mode using PsApi or ToolHelp api
 
 # WUA_API_DEMO
 windows update check using COM IID_IUpdateSession demo
+
+# extractExeIcon
+extract exe icon to BMP
+NOT PREFECT SOLUTION!!! cause icon file more like a container.

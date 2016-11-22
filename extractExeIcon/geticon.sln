@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "geticon", "geticon\geticon.vcxproj", "{D48F3E6D-7CBF-4004-9B8D-DF1C087D0962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D48F3E6D-7CBF-4004-9B8D-DF1C087D0962}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D48F3E6D-7CBF-4004-9B8D-DF1C087D0962}.Debug|Win32.Build.0 = Debug|Win32
+		{D48F3E6D-7CBF-4004-9B8D-DF1C087D0962}.Release|Win32.ActiveCfg = Release|Win32
+		{D48F3E6D-7CBF-4004-9B8D-DF1C087D0962}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
