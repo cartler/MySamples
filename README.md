@@ -22,3 +22,6 @@ TransparentWnd use SetLayeredWindowAttributes
 # ProcMonitor
 notice process start and process close.
 polling mode using PsApi or ToolHelp api
+
+# WUA_API_DEMO
+windows update check using COM IID_IUpdateSession demo
