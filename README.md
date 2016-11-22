@@ -29,3 +29,6 @@ windows update check using COM IID_IUpdateSession demo
 # extractExeIcon
 extract exe icon to BMP
 NOT PREFECT SOLUTION!!! cause icon file more like a container.
+
+# BorderLessWnd
+BorderLess window implement, like f11 in IE.
