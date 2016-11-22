@@ -15,3 +15,6 @@ DrawText( hdc, lpszText, _tcslen( lpszText ), &rc, DT_CALCRECT );
 
 # testPrintWindow
 DumpDC.h dump dc to bmp file. useful debug tool
+
+# TransparentWnd
+TransparentWnd use SetLayeredWindowAttributes
