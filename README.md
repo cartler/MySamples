@@ -8,3 +8,7 @@ ThemedShadow.h implement window shadow use layered window
 
 # pngDropCircleTest
 Drop Image use GDI+
+
+# getTextWidthPiex
+Get Gdi Text width to be draw
+DrawText( hdc, lpszText, _tcslen( lpszText ), &rc, DT_CALCRECT );
