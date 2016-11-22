@@ -12,3 +12,6 @@ Drop Image use GDI+
 # getTextWidthPiex
 Get Gdi Text width to be draw
 DrawText( hdc, lpszText, _tcslen( lpszText ), &rc, DT_CALCRECT );
+
+# testPrintWindow
+DumpDC.h dump dc to bmp file. useful debug tool
