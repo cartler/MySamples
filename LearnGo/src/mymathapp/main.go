@@ -61,6 +61,12 @@ func main() {
 
 	fmt.Println(math.Sqrt(9))
 
+	{
+		s := make([]string, 3)
+		fmt.Println("emp:", s)
+		fmt.Println("emplen:", len(s))
+	}
+
 	switch time.Now().Weekday() {
 	case time.Saturday, time.Sunday:
 		fmt.Println("it's the weekend")
