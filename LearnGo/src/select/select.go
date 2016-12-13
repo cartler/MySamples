@@ -9,7 +9,7 @@ func main() {
 	c2 := make(chan string)
 
 	go func() {
-		time.Sleep(time.Second * 1)
+		time.Sleep(time.Second * 3)
 		c1 <- "one"
 	}()
 	go func() {
@@ -17,7 +17,7 @@ func main() {
 		c2 <- "two"
 	}()
 
-	for i := 0; i < 2; i++ {
+	for i := 0; i < 1; i++ {
 		select {
 		case msg1 := <-c1:
 			fmt.Println("received", msg1)
