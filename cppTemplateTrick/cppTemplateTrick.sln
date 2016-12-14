@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cppTemplateTrick", "cppTemplateTrick\cppTemplateTrick.vcxproj", "{EEB1B653-21F7-42F5-B722-789CBE9F6F51}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CRTP", "CRTP\CRTP.vcxproj", "{8A0BDC78-2F2D-4F9C-86B3-68173F4EC9C7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SFINAE", "SFINAE\SFINAE.vcxproj", "{BCF4991F-4F61-496C-9474-8FBE3BA75A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB1B653-21F7-42F5-B722-789CBE9F6F51}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EEB1B653-21F7-42F5-B722-789CBE9F6F51}.Debug|Win32.Build.0 = Debug|Win32
+		{EEB1B653-21F7-42F5-B722-789CBE9F6F51}.Release|Win32.ActiveCfg = Release|Win32
+		{EEB1B653-21F7-42F5-B722-789CBE9F6F51}.Release|Win32.Build.0 = Release|Win32
+		{8A0BDC78-2F2D-4F9C-86B3-68173F4EC9C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8A0BDC78-2F2D-4F9C-86B3-68173F4EC9C7}.Debug|Win32.Build.0 = Debug|Win32
+		{8A0BDC78-2F2D-4F9C-86B3-68173F4EC9C7}.Release|Win32.ActiveCfg = Release|Win32
+		{8A0BDC78-2F2D-4F9C-86B3-68173F4EC9C7}.Release|Win32.Build.0 = Release|Win32
+		{BCF4991F-4F61-496C-9474-8FBE3BA75A93}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BCF4991F-4F61-496C-9474-8FBE3BA75A93}.Debug|Win32.Build.0 = Debug|Win32
+		{BCF4991F-4F61-496C-9474-8FBE3BA75A93}.Release|Win32.ActiveCfg = Release|Win32
+		{BCF4991F-4F61-496C-9474-8FBE3BA75A93}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
